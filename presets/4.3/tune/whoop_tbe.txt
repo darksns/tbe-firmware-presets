@@ -3,7 +3,7 @@
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: TUNE
 #$ STATUS: EXPERIMENTAL
-#$ KEYWORDS: meteor, mobula, whoop, race, 65mm, 1S, acro, acro, tune
+#$ KEYWORDS: meteor, mobula, whoop, race, 65mm, 1S, acro, tune
 #$ AUTHOR: Ludiga82 - Team Blue Eyes
 #$ DISCUSSION: 
 #$ DESCRIPTION: Team Blue Eyes tuning tips for racing whoop! 
